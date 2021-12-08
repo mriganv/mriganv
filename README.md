@@ -1,4 +1,4 @@
-### Visulatization of the recent US job market through data analysis
+### From compiling data and performing in-depth research to coordinating events and keenly analyzing fiscal risk, my expertise has prepared me to make an outstanding impact on your company. With the proper base in the fundamental principles of analysis, my additional strengths in organization and time management position make me ready to thrive in this challenging position. I gather data across any business, analyze it and translate the results into non-technical language using visualizations & dashboards for team members of all backgrounds.
 
 <!--
 **mriganv/mriganv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
