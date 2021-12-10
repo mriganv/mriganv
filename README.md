@@ -1,8 +1,8 @@
-### From compiling data and performing in-depth research to coordinating events and keenly analyzing fiscal risk, my expertise has prepared me to make an outstanding impact on your company. With the proper base in the fundamental principles of analysis, my additional strengths in organization and time management position make me ready to thrive in this challenging position. I gather data across any business, analyze it and translate the results into non-technical language using visualizations & dashboards for team members of all backgrounds.
+#### From compiling data and performing in-depth research to coordinating events and keenly analyzing fiscal risk, my expertise has prepared me to make an outstanding impact on your company. With the proper base in the fundamental principles of analysis, my additional strengths in organization and time management position make me ready to thrive in this challenging position. I gather data across any business, analyze it and translate the results into non-technical language using visualizations & dashboards for team members of all backgrounds.
 
-### Email:Chithrapriyaj@gmail.com
+#### Email:Chithrapriyaj@gmail.com
 
-### Linkedin: [Click here](https://www.linkedin.com/in/chithrajanardhana/)
+#### Linkedin: [Click here](https://www.linkedin.com/in/chithrajanardhana/)
 
 <!--
 **mriganv/mriganv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
